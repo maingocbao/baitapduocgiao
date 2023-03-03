@@ -1,0 +1,5 @@
+@import "rsuite/dist/rsuite.css";
+#flex{
+    display: flex;
+    flex-wrap: wrap;
+}
